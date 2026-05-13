@@ -1,3 +1,2 @@
-# Stable versions - Railway approved
 pyTelegramBotAPI==4.14.0
 yt-dlp==2023.12.30
